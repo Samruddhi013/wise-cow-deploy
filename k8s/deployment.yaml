@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: samruddhi013/wisecow:latest1  # replace with your Docker Hub image
+        image: samruddhi013/wisecow:latest # replace with your Docker Hub image
         ports:
         - containerPort: 4499
